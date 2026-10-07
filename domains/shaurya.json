@@ -4,6 +4,10 @@
     "github": "aceshaurya"
   },
   "claimedAt": "2026-10-07T18:43:40.157Z",
-  "records": {},
+  "records": {
+    "TXT": [
+      "zoho-verification=zb79892735.zmverify.zoho.in"
+    ]
+  },
   "country": "IN"
 }
