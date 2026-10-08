@@ -18,18 +18,13 @@
     ]
   },
   "subdomains": {
-    "mcpgram": {
-      "TXT": [
-        "zb99151854.zmverify.zoho.in"
-      ]
-    },
     "_vercel": {
       "TXT": [
         "vc-domain-verify=mcpgram.runs-on.dev,0fe81a793218050b80e8"
       ]
     },
-    "zmverify": {
-      "CNAME": "zb99151854.mcpgram"
+    "mcpgram": {
+      "CNAME": "c6c4bbc185ec5e42.vercel-dns-017.com"
     }
   }
 }
