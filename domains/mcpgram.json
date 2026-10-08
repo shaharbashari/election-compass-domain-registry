@@ -20,7 +20,7 @@
   "subdomains": {
     "_vercel": {
       "TXT": [
-        "vc-domain-verify=mcpgram.runs-on.dev,0fe81a793218050b80e8"
+        "vc-domain-verify=runs-on.dev,ce38ee4b23fff7628e22"
       ]
     },
     "mcpgram": {
