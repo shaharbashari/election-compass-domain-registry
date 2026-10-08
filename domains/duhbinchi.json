@@ -4,6 +4,8 @@
     "github": "kshitizwagle"
   },
   "claimedAt": "2026-10-08T17:02:39.645Z",
-  "records": {},
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
   "country": "US"
 }
