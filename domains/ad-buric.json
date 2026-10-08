@@ -7,6 +7,20 @@
   "records": {
     "TXT": [
       "zoho-verification=zb28964128.zmverify.zoho.eu"
+    ],
+    "MX": [
+      {
+        "priority": 10,
+        "value": "mx.zoho.eu"
+      },
+      {
+        "priority": 20,
+        "value": "mx2.zoho.eu"
+      },
+      {
+        "priority": 50,
+        "value": "mx3.zoho.eu"
+      }
     ]
   },
   "country": "HR"
