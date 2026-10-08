@@ -4,6 +4,10 @@
     "github": "mertus2618"
   },
   "claimedAt": "2026-10-08T01:45:31.844Z",
-  "records": {},
+  "records": {
+    "A": [
+      "75.2.60.5"
+    ]
+  },
   "country": "TR"
 }
