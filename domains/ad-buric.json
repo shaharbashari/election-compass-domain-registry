@@ -6,7 +6,8 @@
   "claimedAt": "2026-10-08T21:29:41.111Z",
   "records": {
     "TXT": [
-      "zoho-verification=zb28964128.zmverify.zoho.eu"
+      "zoho-verification=zb28964128.zmverify.zoho.eu",
+      "v=spf1 include:zohomail.eu ~all"
     ],
     "MX": [
       {
