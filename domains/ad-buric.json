@@ -4,6 +4,10 @@
     "github": "Progamingrecords"
   },
   "claimedAt": "2026-10-08T21:29:41.111Z",
-  "records": {},
+  "records": {
+    "TXT": [
+      "zoho-verification=zb28964128.zmverify.zoho.eu"
+    ]
+  },
   "country": "HR"
 }
