@@ -13,6 +13,9 @@
       "TXT": [
         "vc-domain-verify=sekhar.runs-on.dev,52cc0670ff158c0f87f7"
       ]
+    },
+    "sekhar": {
+      "CNAME": "c7f0bea043774956.vercel-dns-017.com"
     }
   }
 }
