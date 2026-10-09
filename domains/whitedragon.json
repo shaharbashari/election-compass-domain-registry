@@ -4,6 +4,8 @@
     "github": "whitedragon-one"
   },
   "claimedAt": "2026-10-09T10:00:47.649Z",
-  "records": {},
+  "records": {
+    "CNAME": "whitedragon.us.ci"
+  },
   "country": "NL"
 }
