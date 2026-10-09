@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "ce64e01c2048dcd8.vercel-dns-017.com"
   },
-  "country": "PH",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=dacia.runs-on.dev,ce958566a5ecb9e57c88"
-      ]
-    }
-  }
+  "country": "PH"
 }
