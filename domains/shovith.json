@@ -5,9 +5,7 @@
   },
   "claimedAt": "2026-09-02T06:50:41.000Z",
   "records": {
-    "TXT": [
-      "google-site-verification=WEMBw9eJQoVxd28DDzFGAU9XT_QaN5QlARSTzeZZk5g"
-    ]
+    "CNAME": "b1462b7a8aa866b4.vercel-dns-017.com"
   },
   "profile": {
     "name": "Shovith Debnath",
