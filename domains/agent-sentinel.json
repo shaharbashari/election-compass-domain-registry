@@ -11,7 +11,7 @@
   "subdomains": {
     "_vercel": {
       "TXT": [
-        "agent-sentinel.runs-on.dev,0e9e23adf6f7b45c15ab"
+        "agent-sentinel.runs-on.dev,8bce6efbd4691c63eda7"
       ]
     }
   }
