@@ -4,7 +4,9 @@
     "github": "zaninifrancesco"
   },
   "claimedAt": "2026-10-09T14:10:29.195Z",
-  "records": {},
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
   "country": "IT",
   "subdomains": {
     "_vercel": {
