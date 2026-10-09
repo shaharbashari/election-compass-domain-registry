@@ -11,11 +11,8 @@
   "subdomains": {
     "_vercel": {
       "TXT": [
-        "agent-sentinel.runs-on.dev,8bce6efbd4691c63eda7"
+        "vc-domain-verify=agent-sentinel.runs-on.dev,8bce6efbd4691c63eda7"
       ]
-    },
-    "agent-sentinel": {
-      "CNAME": "a3a57cf159633d42.vercel-dns-017.com"
     }
   }
 }
